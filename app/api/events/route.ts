@@ -1,0 +1,7 @@
+export function GET(request:Request){
+    return new Response("hi");
+}
+
+export function POST(request:Request){
+    
+}
